@@ -1,0 +1,9 @@
+pandas
+sklearn
+nltk
+django
+djangorestframework
+requests
+gunicorn
+whitenoise
+dj-database-url
